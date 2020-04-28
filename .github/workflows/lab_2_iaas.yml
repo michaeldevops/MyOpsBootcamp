@@ -9,7 +9,7 @@ name: Lab_2_IaaS
 
 env:
   RG_NAME: rg-widget-app
-  LOCATION: eastus2
+  LOCATION: westus
 
 jobs:
 
